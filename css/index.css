@@ -552,6 +552,7 @@ blockquote p {
   margin: 0.3rem 0;
 }
 .author-links {
+  display: table-cell;
   position: relative;
   vertical-align: top;
   z-index: 10;
