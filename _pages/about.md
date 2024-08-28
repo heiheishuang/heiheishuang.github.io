@@ -18,7 +18,7 @@ redirect_from:
 
 # 👧🏻 About Me
 
-I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in Software Engineering at Northwest Polytechnic University. I am looking for a PhD position in Fall, 2025.
+I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in Software Engineering at Northwestern Polytechnical University. I am looking for a PhD position in Fall, 2025.
 
 Currently, I’m interested in 3D computer vision, with a particular focus on 3D Scene Reconstruction and Perception, Autonomous driving, including 3D gaussian splatting and depth estimation.
 
