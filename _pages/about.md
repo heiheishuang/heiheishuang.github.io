@@ -65,7 +65,7 @@ More about me through [CV-en](files/Yingshuang_Zou_CV.pdf).
 </div>
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://raw.githubusercontent.com/heiheishuang/image/main/img/scenes_gs.png' alt="sym" width="300%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://raw.githubusercontent.com/heiheishuang/image/main/img/scenes_gs.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 <a href="https://www.robomaster.com/en-US/robo/icra" style="font-size: 22px; color: #483D8B; text-decoration: none">**Gaussian Splatting for Dynamic Driving Scenes**</a><br>
 <span style="font-size: 18px;">- We design a novel scene representation for modeling complex dynamic street scene, which efficiently reconstructs and renders high-fidelity “dynamic urban scenes” in real-time.</span>
