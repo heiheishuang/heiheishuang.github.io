@@ -22,7 +22,7 @@ I am currently a 3rd-Year Master student at [Tsinghua University](https://www.ts
 
 Currently, I’m interested in 3D computer vision, with a particular focus on 3D Scene Reconstruction and Perception, Autonomous driving, including 3D gaussian splatting and depth estimation.
 
-More about me through [CV-en](files/Yingshuang_Zou_CV.pdf).
+More about me through [CV-en](files/YingshuangZou_CV.pdf).
 
 <br>
 
