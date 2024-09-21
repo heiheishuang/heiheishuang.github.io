@@ -24,6 +24,8 @@ Currently, I’m interested in 3D computer vision, with a particular focus on 3D
 
 More about me through [CV-en](files/YingshuangZou_CV.pdf).
 
+**I am looking for a Ph.D. position (25 Fall) in 3D vision, feel free to contact me at yingsh.zou@gmail.com.**
+
 <br>
 
 # 📝 Publications 
