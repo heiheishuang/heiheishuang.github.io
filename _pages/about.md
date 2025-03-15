@@ -22,7 +22,7 @@ I am currently a 3rd-Year Master student at [Tsinghua University](https://www.ts
 
 Currently, I’m interested in 3D computer vision, with a particular focus on 3D Scene Reconstruction and Perception, Autonomous driving, including 3D gaussian splatting and depth estimation.
 
-More about me through [CV-en](files/YingshuangZou_CV.pdf).
+More about me through [CV-en](files/YingshuangZou_CV_2025.3.pdf).
 
 **I am looking for a Ph.D. position (25 Fall) in 3D vision, feel free to contact me at yingsh.zou@gmail.com.**
 
@@ -41,8 +41,7 @@ More about me through [CV-en](files/YingshuangZou_CV.pdf).
 </div>
 </div>
 
-# 📄 Preprint Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/transplat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/transplat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2408.13770" style="font-size: 22px; color: #483D8B; text-decoration: none">**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**</a><br>
@@ -50,6 +49,20 @@ More about me through [CV-en](files/YingshuangZou_CV.pdf).
 <span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/transplat) / [**Paper**](https://arxiv.org/abs/2408.13770) / [**Code**](#todo)</span>
 
 <span style="font-size: 18px;">- We present TranSplat, a transformer-based approach for generalizable 3D gaussian splatting from sparse multi-view images.</span>
+
+</div>
+</div>
+
+
+# 📄 Preprint Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='mudg/static/images/pipeline.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2503.10604" style="font-size: 22px; color: #483D8B; text-decoration: none">**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**</a><br>
+<span style="font-size: 18px;">**Yingshuang Zou\***, Yikang Ding\*, Chuantui Zhang, Xiaoyang Lyu, Feiyang Tan, Xiaojuan Qi, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">[**Website**](https://heiheishuang.xyz/mudg/) / [**Paper**](https://arxiv.org/abs/2503.10604) / [**Code**](https://github.com/heiheishuang/MuDG)</span>
+
+<span style="font-size: 18px;">- We present MuDG, a controllable Multi-modal Diffusion model with Gaussian Splatting (GS) for Urban Scene Reconstruction.</span>
 
 </div>
 </div>
